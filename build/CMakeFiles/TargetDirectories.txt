@@ -1,3 +1,0 @@
-/home/yuchen/Documents/graduation_design/Simulation/Sim_for_lab_07/build/CMakeFiles/Simulation.dir
-/home/yuchen/Documents/graduation_design/Simulation/Sim_for_lab_07/build/CMakeFiles/edit_cache.dir
-/home/yuchen/Documents/graduation_design/Simulation/Sim_for_lab_07/build/CMakeFiles/rebuild_cache.dir
