@@ -1,0 +1,10 @@
+-o
+tags
+-L
+.ctags.d/0.list
+# Programming languages to be scanned, or "all" for all supported languages
+--languages=C++
+--kinds-all=*
+--fields=*
+--extras=*
+--recurse
